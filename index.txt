@@ -1,0 +1,6 @@
+<html>
+<body bgcolor="green">
+Welcome to my page
+<a href ="H_1.html">Next page</a>
+</body>
+</html>
